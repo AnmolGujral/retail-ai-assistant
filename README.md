@@ -1,7 +1,7 @@
 # Retail AI Assistant
 
 <p align="center">
-  <img src="logo.png" alt="Retail AI Assistant" width="200"/>
+  <img src="retail_logo.png" alt="Retail AI Assistant" width="200"/>
 </p>
 
 A customer-facing AI assistant for retail applications, combining LLMs, Retrieval-Augmented Generation (RAG), sentiment analysis, and tool execution.
